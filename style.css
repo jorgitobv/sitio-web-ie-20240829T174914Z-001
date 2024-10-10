@@ -45,7 +45,7 @@ main { /* Estilo para el elemento main */
 h1 { /* Estilo para el título h1 */
     font-size: 4em; /* Tamaño de fuente grande (4em) */
     font-weight: bold; /* Fuente en negrita */
-    color: hsl(324, 40%, 59%); /* Color naranja */
+    color: hsl(66, 100%, 50%); /* Color naranja */
 }
 
 h2 { /* Estilo para subtítulos h2 */
@@ -65,7 +65,7 @@ p { /* Estilo para párrafos p */
     padding: 0; /* Sin padding */
     text-align: justify; /* Justifica el texto */
     word-break: normal; /* Permite el corte de palabras natural */
-    color: rgb(123, 255, 220);
+    color: rgb(255, 0, 98);
 
 }
 
